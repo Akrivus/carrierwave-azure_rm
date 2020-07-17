@@ -4,7 +4,7 @@ require 'carrierwave/azure_rm/version'
 
 Gem::Specification.new do |gem|
   gem.name          = 'carrierwave-azure_rm'
-  gem.version       = Carrierwave::AzureRM::VERSION
+  gem.version       = '0.1.7'
   gem.authors       = ['krismichalski']
   gem.email         = ['kristopher.michalski@gmail.com']
   gem.summary       = %q{Microsoft Azure Storage blob support for CarrierWave}
